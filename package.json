@@ -1,6 +1,6 @@
 {
   "name": "signaltohertz",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "calculate Hertz frequency from audio buffer",
   "main": "signaltohertz.js",
   "scripts": {
