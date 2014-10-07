@@ -1,0 +1,26 @@
+{
+  "name": "signaltohertz",
+  "version": "0.1.0",
+  "description": "calculate Hertz frequency from audio buffer",
+  "main": "signaltohertz.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fritzvd/signaltohertz.git"
+  },
+  "keywords": [
+    "audio",
+    "frequency"
+  ],
+  "author": "fritzvd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fritzvd/signaltohertz/issues"
+  },
+  "homepage": "https://github.com/fritzvd/signaltohertz",
+  "devDependencies": {
+    "tape": "~3.0.0"
+  }
+}
